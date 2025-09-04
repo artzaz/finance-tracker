@@ -46,9 +46,6 @@ A beautiful, responsive web application to track your income, expenses, and budg
 ### Analytics Charts
 ![Analytics](screenshots/analytics.png)
 
-### Mobile View
-![Mobile View](screenshots/mobile.png)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
