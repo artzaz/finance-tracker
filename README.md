@@ -33,7 +33,7 @@ A beautiful, responsive web application to track your income, expenses, and budg
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/personal-finance-tracker)
+[View Live Demo](https://artzaz.github.io/personal-finance-tracker)
 
 ## 📱 Screenshots
 
@@ -161,7 +161,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🐛 Issues & Bug Reports
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/your-username/personal-finance-tracker/issues) with:
+Found a bug or have a feature request? Please [open an issue](https://github.com/artzaz/personal-finance-tracker/issues) with:
 
 - Clear description of the problem
 - Steps to reproduce (for bugs)
@@ -184,6 +184,6 @@ If you found this project helpful, please consider giving it a star! ⭐
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/your-username)**
+**Made with ❤️ by [artzaz](https://github.com/artzaz)**
 
 *Take control of your financial future, one transaction at a time.*
